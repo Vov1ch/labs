@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\openproject\openproject\bin\Debug\net8.0\openproject.exe
+C:\Users\user\source\repos\openproject\openproject\bin\Debug\net8.0\openproject.deps.json
+C:\Users\user\source\repos\openproject\openproject\bin\Debug\net8.0\openproject.runtimeconfig.json
+C:\Users\user\source\repos\openproject\openproject\bin\Debug\net8.0\openproject.dll
+C:\Users\user\source\repos\openproject\openproject\bin\Debug\net8.0\openproject.pdb
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\openproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\openproject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\openproject.AssemblyInfo.cs
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\openproject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\openproject.dll
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\refint\openproject.dll
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\openproject.pdb
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\openproject.genruntimeconfig.cache
+C:\Users\user\source\repos\openproject\openproject\obj\Debug\net8.0\ref\openproject.dll
