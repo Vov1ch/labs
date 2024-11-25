@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\openproject\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B44A7948-5795-4450-B94F-E34C74DD930F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\openproject\\consoleapp1\\consoletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B44A7948-5795-4450-B94F-E34C74DD930F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\lab1\\consoleapp1\\consoletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44A7948-5795-4450-B94F-E34C74DD930F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1080EC5-59DF-459B-806E-7A78398A89CA}|openproject\\openproject.csproj|c:\\users\\user\\source\\repos\\openproject\\openproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1080EC5-59DF-459B-806E-7A78398A89CA}|openproject\\openproject.csproj|c:\\users\\user\\source\\repos\\lab1\\openproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1080EC5-59DF-459B-806E-7A78398A89CA}|openproject\\openproject.csproj|solutionrelative:openproject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31B044A0-0AE3-4758-992E-0EE0236FCFE0}|testing\\testing.csproj|c:\\users\\user\\source\\repos\\openproject\\testing\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31B044A0-0AE3-4758-992E-0EE0236FCFE0}|testing\\testing.csproj|c:\\users\\user\\source\\repos\\lab1\\testing\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31B044A0-0AE3-4758-992E-0EE0236FCFE0}|testing\\testing.csproj|solutionrelative:testing\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1080EC5-59DF-459B-806E-7A78398A89CA}|openproject\\openproject.csproj|c:\\users\\user\\source\\repos\\openproject\\openproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1080EC5-59DF-459B-806E-7A78398A89CA}|openproject\\openproject.csproj|c:\\users\\user\\source\\repos\\lab1\\openproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1080EC5-59DF-459B-806E-7A78398A89CA}|openproject\\openproject.csproj|solutionrelative:openproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,49 +32,46 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\openproject\\testing\\Test.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab1\\testing\\Test.cs",
               "RelativeDocumentMoniker": "testing\\Test.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\openproject\\testing\\Test.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab1\\testing\\Test.cs",
               "RelativeToolTip": "testing\\Test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T17:36:45.223Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleTest.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\openproject\\ConsoleApp1\\ConsoleTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab1\\ConsoleApp1\\ConsoleTest.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleTest.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\openproject\\ConsoleApp1\\ConsoleTest.cs*",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleTest.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab1\\ConsoleApp1\\ConsoleTest.cs",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T02:55:23.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T02:55:23.053Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\openproject\\openproject\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab1\\openproject\\Class1.cs",
               "RelativeDocumentMoniker": "openproject\\Class1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\openproject\\openproject\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab1\\openproject\\Class1.cs",
               "RelativeToolTip": "openproject\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:09:05.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T19:09:05.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\openproject\\openproject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab1\\openproject\\Program.cs",
               "RelativeDocumentMoniker": "openproject\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\openproject\\openproject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab1\\openproject\\Program.cs",
               "RelativeToolTip": "openproject\\Program.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAqwGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

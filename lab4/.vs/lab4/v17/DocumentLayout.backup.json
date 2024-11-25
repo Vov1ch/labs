@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\classtrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\classtrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\classmedicalcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\classmedicalcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\classdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\classdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\classtruck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\classtruck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\classcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\classcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\classfleet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\classfleet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\classsedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\classsedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|c:\\users\\user\\source\\repos\\lab4\\lab4\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4560171-E6D7-44A4-8F00-C8BC3F99D2C6}|lab4\\lab4.csproj|solutionrelative:lab4\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassFleet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassFleet.cs",
+              "RelativeDocumentMoniker": "lab4\\ClassFleet.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassFleet.cs",
+              "RelativeToolTip": "lab4\\ClassFleet.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:33:35.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassTrip.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassTrip.cs",
+              "RelativeDocumentMoniker": "lab4\\ClassTrip.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassTrip.cs",
+              "RelativeToolTip": "lab4\\ClassTrip.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:32:58.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassMedicalCertificate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassMedicalCertificate.cs",
+              "RelativeDocumentMoniker": "lab4\\ClassMedicalCertificate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassMedicalCertificate.cs",
+              "RelativeToolTip": "lab4\\ClassMedicalCertificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:32:21.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDriver.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassDriver.cs",
+              "RelativeDocumentMoniker": "lab4\\ClassDriver.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassDriver.cs",
+              "RelativeToolTip": "lab4\\ClassDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:31:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassTruck.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassTruck.cs",
+              "RelativeDocumentMoniker": "lab4\\ClassTruck.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassTruck.cs",
+              "RelativeToolTip": "lab4\\ClassTruck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:30:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassSedan.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassSedan.cs",
+              "RelativeDocumentMoniker": "lab4\\ClassSedan.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassSedan.cs",
+              "RelativeToolTip": "lab4\\ClassSedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:29:42.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassCar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassCar.cs",
+              "RelativeDocumentMoniker": "lab4\\ClassCar.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\ClassCar.cs",
+              "RelativeToolTip": "lab4\\ClassCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:27:34.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:19:34.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "class.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\class.cs",
+              "RelativeDocumentMoniker": "lab4\\class.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab4\\lab4\\class.cs",
+              "RelativeToolTip": "lab4\\class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:07:04.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

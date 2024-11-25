@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\App1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|c:\\users\\user\\source\\repos\\app1\\app1\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|c:\\users\\user\\source\\repos\\lab2\\app1\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|solutionrelative:app1\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|c:\\users\\user\\source\\repos\\app1\\app1\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|solutionrelative:app1\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|c:\\users\\user\\source\\repos\\lab2\\app1\\classs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|solutionrelative:app1\\classs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|c:\\users\\user\\source\\repos\\app1\\app1\\classs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|solutionrelative:app1\\classs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|c:\\users\\user\\source\\repos\\lab2\\app1\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5EC766-A380-4059-AEA6-99D8C326878C}|App1\\App1.csproj|solutionrelative:app1\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Classs.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\App1\\App1\\Classs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab2\\App1\\Classs.cs",
               "RelativeDocumentMoniker": "App1\\Classs.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\App1\\App1\\Classs.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab2\\App1\\Classs.cs",
               "RelativeToolTip": "App1\\Classs.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAqwCQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwCQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:01:45.201Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\App1\\App1\\Students.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab2\\App1\\Students.cs",
               "RelativeDocumentMoniker": "App1\\Students.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\App1\\App1\\Students.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab2\\App1\\Students.cs",
               "RelativeToolTip": "App1\\Students.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T09:08:25.852Z",
               "IsPinned": true,
@@ -53,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Programm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\App1\\App1\\Programm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab2\\App1\\Programm.cs",
               "RelativeDocumentMoniker": "App1\\Programm.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\App1\\App1\\Programm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab2\\App1\\Programm.cs",
               "RelativeToolTip": "App1\\Programm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

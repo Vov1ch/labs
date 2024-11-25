@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\openproject\\openproject\\openproject.csproj": {}
+    "C:\\Users\\user\\source\\repos\\lab1\\openproject\\openproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\openproject\\openproject\\openproject.csproj": {
+    "C:\\Users\\user\\source\\repos\\lab1\\openproject\\openproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\openproject\\openproject\\openproject.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\lab1\\openproject\\openproject.csproj",
         "projectName": "openproject",
-        "projectPath": "C:\\Users\\user\\source\\repos\\openproject\\openproject\\openproject.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\lab1\\openproject\\openproject.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\openproject\\openproject\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\lab1\\openproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

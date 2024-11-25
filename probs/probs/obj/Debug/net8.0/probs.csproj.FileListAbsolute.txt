@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\probs\probs\bin\Debug\net8.0\probs.exe
+C:\Users\user\source\repos\probs\probs\bin\Debug\net8.0\probs.deps.json
+C:\Users\user\source\repos\probs\probs\bin\Debug\net8.0\probs.runtimeconfig.json
+C:\Users\user\source\repos\probs\probs\bin\Debug\net8.0\probs.dll
+C:\Users\user\source\repos\probs\probs\bin\Debug\net8.0\probs.pdb
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\probs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\probs.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\probs.AssemblyInfo.cs
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\probs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\probs.sourcelink.json
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\probs.dll
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\refint\probs.dll
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\probs.pdb
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\probs.genruntimeconfig.cache
+C:\Users\user\source\repos\probs\probs\obj\Debug\net8.0\ref\probs.dll
