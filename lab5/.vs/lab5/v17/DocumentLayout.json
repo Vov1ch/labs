@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\jupiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\jupiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\irequiresurvivaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\irequiresurvivaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\mercury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\mercury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\neptune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\neptune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\mars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\mars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\irequiresamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\irequiresamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\ihaveangryresidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\ihaveangryresidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\venus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\venus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\uranus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\uranus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\saturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\saturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE17E6-B9F4-42D3-9B06-16589CF36612}|lab5\\lab5.csproj|solutionrelative:lab5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Neptune.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Neptune.cs",
+              "RelativeDocumentMoniker": "lab5\\Neptune.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Neptune.cs",
+              "RelativeToolTip": "lab5\\Neptune.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:48:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Uranus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Uranus.cs",
+              "RelativeDocumentMoniker": "lab5\\Uranus.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Uranus.cs",
+              "RelativeToolTip": "lab5\\Uranus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:48:06.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Saturn.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Saturn.cs",
+              "RelativeDocumentMoniker": "lab5\\Saturn.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Saturn.cs",
+              "RelativeToolTip": "lab5\\Saturn.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:45:23.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Student.cs",
+              "RelativeDocumentMoniker": "lab5\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Student.cs",
+              "RelativeToolTip": "lab5\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:25:31.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jupiter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Jupiter.cs",
+              "RelativeDocumentMoniker": "lab5\\Jupiter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Jupiter.cs",
+              "RelativeToolTip": "lab5\\Jupiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:18:42.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mercury.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Mercury.cs",
+              "RelativeDocumentMoniker": "lab5\\Mercury.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Mercury.cs",
+              "RelativeToolTip": "lab5\\Mercury.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:18:02.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Venus.cs",
+              "RelativeDocumentMoniker": "lab5\\Venus.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Venus.cs",
+              "RelativeToolTip": "lab5\\Venus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:16:51.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mars.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Mars.cs",
+              "RelativeDocumentMoniker": "lab5\\Mars.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Mars.cs",
+              "RelativeToolTip": "lab5\\Mars.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:16:08.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRequireSamples.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\IRequireSamples.cs",
+              "RelativeDocumentMoniker": "lab5\\IRequireSamples.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\IRequireSamples.cs",
+              "RelativeToolTip": "lab5\\IRequireSamples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:43:58.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRequireSurvivalTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\IRequireSurvivalTest.cs",
+              "RelativeDocumentMoniker": "lab5\\IRequireSurvivalTest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\IRequireSurvivalTest.cs",
+              "RelativeToolTip": "lab5\\IRequireSurvivalTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:41:32.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHaveAngryResidents.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\IHaveAngryResidents.cs",
+              "RelativeDocumentMoniker": "lab5\\IHaveAngryResidents.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\IHaveAngryResidents.cs",
+              "RelativeToolTip": "lab5\\IHaveAngryResidents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:39:24.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Planet.cs",
+              "RelativeDocumentMoniker": "lab5\\Planet.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Planet.cs",
+              "RelativeToolTip": "lab5\\Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:34:44.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Program.cs",
+              "RelativeDocumentMoniker": "lab5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lab5\\lab5\\Program.cs",
+              "RelativeToolTip": "lab5\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:24:00.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
